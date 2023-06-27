@@ -8,10 +8,9 @@
   position: relative;
 }
 
-.try {
+.myStyle{
   border-radius: 43px;
-  background: #b48d8d;
-  box-shadow: 20px 20px 60px #6e1414, -20px -20px 60px #941c1c;
+  background: #fffaeb;
 }
 
 .radioButton {

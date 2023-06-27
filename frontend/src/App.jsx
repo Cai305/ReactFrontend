@@ -44,7 +44,7 @@ const App = () => {
   };
 
   return (
-    <div className="container try">
+    <div className="container myStyle">
       <div className="child">
         <form onSubmit={formik.handleSubmit}>
           {questions?.map((question) => {
