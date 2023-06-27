@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# Bi-me Front-End Assessment test
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview & Instructions
 
-## Available Scripts
+Hello and welcome, Included on this folder are three files README.md file(for instructions), Figma file (for the look and feel) and a questions.json file for the data you will have to use for the challenge:
 
-In the project directory, you can run:
+* Create a simple react application with a react CLI tool of your choosing.
+* Use this [Figma](https://www.figma.com/file/sFtOZVVt7lP2XfeWx9lLoH/Untitled?node-id=0%3A1) file to create your form fields components (to showcase your attention to detail)
+* Using [Formik](https://formik.org/) create Formik fields using the provided questions.json and display them on the application (please note: do not copy paste the data on the questions.json, simply import the json as it is and render your fields dynamically using formik). 
+* On the questions.json you'll find that some of the questions have conditions. use those conditions to display the question fields as required.
+* If the question has no conditions, display the question by default. i.e. Q2 will only display if the value of Q1 is true
 
-### `npm start`
+## Tools and Technologies to use
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* [Formik](https://formik.org/)
+* [Styled-Components](https://styled-components.com//)
+* [Figma](https://www.figma.com/file/sFtOZVVt7lP2XfeWx9lLoH/Untitled?node-id=0%3A1)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Submission instructions 
+* Everything should be done on Github and shared with Tanaka Malaba at the completion of the challenge.
+* Best Practices will be a bonus.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## All the best and hope to see you on the team. 
